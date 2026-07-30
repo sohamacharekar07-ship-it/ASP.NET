@@ -1,6 +1,5 @@
 /* =========================================================
    DOT.NET CORE & PWA PRACTICAL – VI
-   Name: Siddhesh Kamble (T009)
 
    QUESTION 1:
    Create a simple website for a College Information Portal
@@ -13,7 +12,7 @@
    (PWA Identity File)
 =========================== */
 {
-  "name": "College Information Portal -(Siddhesh(T009))",
+  "name": "College Information Portal",
   "short_name": "College Portal",
   "start_url": "/",
   "display": "standalone",
